@@ -1,0 +1,4 @@
+requests
+solana
+tk
+py2app
